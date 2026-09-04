@@ -17,3 +17,9 @@ data/nmc?.*
 
 docs/src/polyglot-dkvp-io/__pycache__
 docs/site/
+
+# ProgramBench course-competition artifacts
+executable
+.programbench/venv/
+.programbench/tests/
+.programbench/run/
